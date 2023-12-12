@@ -67,6 +67,12 @@ const Login = () => {
 							{' '}
 							Register
 						</Link>
+				 <p className='forgot-password text-right'>
+				 <Link to="/Forgot" className="">
+							{' '}
+							Forgot password?
+						</Link>
+				 </p>
 					</p>
 				</div>
 			</div>
